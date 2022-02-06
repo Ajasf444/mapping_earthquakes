@@ -1,2 +1,5 @@
 # Ignore the config.js file.
 config.js
+
+torontoNeighborhoods.json
+torontoRoutes.json
